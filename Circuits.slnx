@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/core/">
+    <Project Path="core/Circuits.Core/Circuits.Core.csproj" />
+    <Project Path="core/Circuits.Core.Tests/Circuits.Core.Tests.csproj" />
+  </Folder>
+</Solution>

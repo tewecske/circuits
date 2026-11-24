@@ -1,0 +1,26 @@
+# .NET build output
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+
+# Godot 4
+.godot/
+/android/
+*.translation
+mono_crash.*.json
+export_credentials.cfg
+
+# Exported game builds
+/builds/
+
+# Editors
+.vs/
+.vscode/
+.idea/
+
+# Nix
+result
+result-*
+.direnv/
